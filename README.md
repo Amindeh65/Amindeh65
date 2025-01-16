@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a Ph.D. in Biomedical engineering and my thesis was simultaneous EEG-fMRI neurofeedback for emotion regulation. Currently I'm postdoctoral researcher in the Cognitive Affective Neuroscience Lab (PI: Tor Wager). Mu current project is investigation the effect of transcranial direct current stimulation (tDCS) on pain, decision making, and placebo effects.
+I have a Ph.D. in Biomedical engineering and my thesis was simultaneous EEG-fMRI neurofeedback for emotion regulation. Currently I'm postdoctoral researcher in the Cognitive Affective Neuroscience Lab (PI: Tor Wager). My current project is investigation the effect of transcranial direct current stimulation (tDCS) on pain, decision making, and placebo effects.
 
 
 ## 🌐 Socials:
